@@ -1,0 +1,6 @@
+channel,total_interactions,total_conversions,avg_conversion_rate_pct,avg_duration_min,total_samples_dropped,cost_per_interaction,total_channel_cost,cost_per_conversion,conversion_rank,roi_rank
+Email Follow-up,2031.0,393.0,21.8,24.2,1211.0,8,16248.0,37.0,2,1
+Virtual Detail,3382.0,659.0,18.9,24.5,2005.0,35,118370.0,185.0,4,2
+In-Person Visit,9363.0,1770.0,18.7,24.6,5670.0,180,1685340.0,963.0,5,3
+Speaker Program,864.0,173.0,22.3,23.9,492.0,280,241920.0,1256.0,1,4
+Conference,1379.0,262.0,20.1,24.7,836.0,450,620550.0,2239.0,3,5

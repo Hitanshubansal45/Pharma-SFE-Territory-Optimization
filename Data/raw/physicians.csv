@@ -1,0 +1,501 @@
+hcp_id,hcp_name,territory_id,specialty,prescriber_tier,monthly_rx_volume,years_in_practice,hospital_affiliation,digital_engagement
+H0001,Dr. Wiley,T017,Cardiologist,C,3,25,Private Practice,Low
+H0002,Dr. Green,T041,Endocrinologist,B,38,18,Private Practice,High
+H0003,Dr. Carpenter,T006,Pulmonologist,C,12,25,Community,Low
+H0004,Dr. Terrell,T043,Endocrinologist,C,5,22,Private Practice,High
+H0005,Dr. Johnson,T006,Immunologist,C,9,14,Community,Medium
+H0006,Dr. Carlson,T020,Neurologist,A,54,12,Group Practice,High
+H0007,Dr. Reed,T039,Endocrinologist,B,30,20,Group Practice,Low
+H0008,Dr. Hartman,T008,Neurologist,A,110,12,Community,Medium
+H0009,Dr. Graham,T012,Endocrinologist,B,35,14,Group Practice,Low
+H0010,Dr. Joyce,T035,Cardiologist,C,11,2,Private Practice,Medium
+H0011,Dr. Wilson,T035,Cardiologist,A,65,20,Community,Medium
+H0012,Dr. Lam,T031,Internist,B,26,13,Community,High
+H0013,Dr. Lee,T034,Cardiologist,C,9,9,Community,Medium
+H0014,Dr. Williams,T026,Internist,C,17,9,Private Practice,Low
+H0015,Dr. Graham,T013,Cardiologist,C,15,13,Group Practice,Medium
+H0016,Dr. Meyer,T017,Cardiologist,A,96,34,Private Practice,Low
+H0017,Dr. Drake,T009,Cardiologist,B,19,27,Group Practice,Low
+H0018,Dr. Mcdaniel,T047,Neurologist,B,40,29,Private Practice,Medium
+H0019,Dr. Bentley,T028,Pulmonologist,A,60,6,Private Practice,Medium
+H0020,Dr. Mclaughlin,T020,Internist,B,32,9,Private Practice,High
+H0021,Dr. Gonzalez,T022,Endocrinologist,A,108,26,Community,High
+H0022,Dr. Reynolds,T048,Cardiologist,A,42,28,Private Practice,High
+H0023,Dr. Rush,T008,Neurologist,B,37,24,Private Practice,Medium
+H0024,Dr. Mccall,T028,Neurologist,A,76,31,Academic,Medium
+H0025,Dr. Hanson,T024,Neurologist,C,9,24,Private Practice,Medium
+H0026,Dr. Alvarado,T029,Internist,C,2,21,Academic,Medium
+H0027,Dr. Martinez,T002,Pulmonologist,C,4,19,Private Practice,Medium
+H0028,Dr. Mccullough,T045,Internist,B,33,19,Private Practice,Medium
+H0029,Dr. Hunter,T047,Endocrinologist,A,51,3,Community,Low
+H0030,Dr. Estrada,T027,Pulmonologist,A,100,5,Community,High
+H0031,Dr. Nguyen,T034,Oncologist,C,10,31,Community,High
+H0032,Dr. Terry,T047,General Practitioner,C,2,34,Group Practice,Low
+H0033,Dr. Spencer,T035,Neurologist,A,89,19,Academic,Medium
+H0034,Dr. Lee,T008,Internist,C,6,20,Group Practice,Medium
+H0035,Dr. Ortega,T028,Oncologist,A,107,29,Academic,Medium
+H0036,Dr. Gray,T029,Immunologist,B,24,21,Group Practice,Medium
+H0037,Dr. Adkins,T021,Internist,C,10,34,Group Practice,High
+H0038,Dr. Thompson,T036,Cardiologist,C,8,13,Community,High
+H0039,Dr. Carroll,T047,General Practitioner,C,7,16,Private Practice,Medium
+H0040,Dr. Sullivan,T047,Cardiologist,C,8,3,Community,Medium
+H0041,Dr. Bass,T022,Pulmonologist,B,15,30,Private Practice,Low
+H0042,Dr. Torres,T006,General Practitioner,C,2,11,Academic,Low
+H0043,Dr. Clark,T050,Internist,A,63,3,Academic,Medium
+H0044,Dr. Floyd,T043,Endocrinologist,C,14,12,Academic,Low
+H0045,Dr. Lawson,T006,Oncologist,B,43,14,Community,Medium
+H0046,Dr. Morris,T047,Endocrinologist,C,3,11,Community,Medium
+H0047,Dr. Ramos,T044,Internist,B,42,15,Private Practice,Low
+H0048,Dr. Lowe,T025,Pulmonologist,C,11,19,Group Practice,Medium
+H0049,Dr. Dixon,T028,Cardiologist,B,25,10,Community,Medium
+H0050,Dr. Leon,T020,General Practitioner,C,10,29,Private Practice,High
+H0051,Dr. Moyer,T003,Endocrinologist,A,78,4,Community,Medium
+H0052,Dr. Fitzgerald,T016,Internist,A,88,21,Private Practice,Low
+H0053,Dr. Hopkins,T040,Endocrinologist,B,31,7,Group Practice,Low
+H0054,Dr. Campbell,T001,Internist,A,109,28,Group Practice,Low
+H0055,Dr. Beck,T016,Cardiologist,C,15,3,Group Practice,Low
+H0056,Dr. Harvey,T020,General Practitioner,B,20,30,Academic,Medium
+H0057,Dr. Davis,T026,Oncologist,C,3,4,Private Practice,Medium
+H0058,Dr. Crane,T047,Cardiologist,B,15,17,Private Practice,High
+H0059,Dr. Young,T017,Endocrinologist,A,113,31,Community,Medium
+H0060,Dr. Collins,T017,Oncologist,C,6,3,Group Practice,Medium
+H0061,Dr. Drake,T036,Internist,C,6,18,Academic,Low
+H0062,Dr. Hernandez,T022,Oncologist,B,16,13,Private Practice,Medium
+H0063,Dr. Williams,T011,Internist,C,7,2,Community,Medium
+H0064,Dr. Riggs,T022,Cardiologist,C,17,16,Community,Medium
+H0065,Dr. Carr,T007,Endocrinologist,B,39,27,Private Practice,Medium
+H0066,Dr. Mack,T009,Pulmonologist,C,3,22,Private Practice,Low
+H0067,Dr. Gibson,T024,Endocrinologist,C,11,32,Community,High
+H0068,Dr. Mercado,T021,Internist,C,3,26,Community,Medium
+H0069,Dr. Johnston,T047,Neurologist,A,55,24,Private Practice,Low
+H0070,Dr. Higgins,T018,General Practitioner,C,17,25,Academic,Medium
+H0071,Dr. Cruz,T028,Immunologist,A,90,29,Community,High
+H0072,Dr. Ross,T030,Pulmonologist,A,78,22,Group Practice,Medium
+H0073,Dr. Hernandez,T001,Oncologist,B,36,19,Private Practice,Low
+H0074,Dr. Watts,T031,Pulmonologist,B,26,10,Community,High
+H0075,Dr. Stafford,T009,General Practitioner,C,9,31,Private Practice,Low
+H0076,Dr. Dalton,T049,Oncologist,C,16,33,Private Practice,Low
+H0077,Dr. Mcclure,T008,General Practitioner,C,9,4,Group Practice,Medium
+H0078,Dr. Osborne,T021,Oncologist,B,20,4,Private Practice,Low
+H0079,Dr. Robinson,T005,Pulmonologist,B,42,29,Community,Low
+H0080,Dr. Brock,T050,Oncologist,B,41,16,Community,Low
+H0081,Dr. Dominguez,T024,Oncologist,C,11,24,Community,Low
+H0082,Dr. Marshall,T029,Neurologist,A,103,12,Private Practice,High
+H0083,Dr. Grant,T003,Endocrinologist,C,4,33,Academic,High
+H0084,Dr. Lowery,T037,Endocrinologist,C,16,34,Private Practice,Medium
+H0085,Dr. Martinez,T011,Immunologist,B,31,25,Community,High
+H0086,Dr. Anderson,T046,Immunologist,C,17,29,Community,Medium
+H0087,Dr. Marshall,T010,Internist,B,21,8,Group Practice,Low
+H0088,Dr. Schmidt,T009,Internist,C,6,5,Community,Low
+H0089,Dr. Hansen,T002,Internist,C,5,2,Academic,Medium
+H0090,Dr. Stewart,T023,Neurologist,B,40,2,Private Practice,Low
+H0091,Dr. Fischer,T027,Immunologist,B,18,21,Academic,Low
+H0092,Dr. Ramos,T003,General Practitioner,C,15,20,Private Practice,Medium
+H0093,Dr. Briggs,T038,Internist,C,5,30,Private Practice,High
+H0094,Dr. Mcclain,T022,Internist,B,36,11,Community,Medium
+H0095,Dr. Simmons,T025,Pulmonologist,C,16,19,Private Practice,Low
+H0096,Dr. Meadows,T021,Cardiologist,C,9,29,Private Practice,Medium
+H0097,Dr. Griffin,T020,General Practitioner,C,9,32,Community,Medium
+H0098,Dr. Moore,T027,Internist,A,118,28,Academic,High
+H0099,Dr. Hensley,T008,Internist,C,7,12,Community,Low
+H0100,Dr. Cole,T009,Internist,C,5,6,Group Practice,Low
+H0101,Dr. Walton,T044,Cardiologist,A,53,9,Community,Low
+H0102,Dr. Larsen,T048,Cardiologist,B,41,13,Private Practice,Low
+H0103,Dr. Ramirez,T018,Neurologist,C,14,2,Private Practice,Low
+H0104,Dr. Strickland,T014,General Practitioner,A,79,32,Private Practice,Low
+H0105,Dr. Washington,T031,Neurologist,C,11,5,Academic,Low
+H0106,Dr. Allen,T020,Oncologist,B,42,6,Community,Low
+H0107,Dr. Gonzales,T002,Cardiologist,B,40,31,Private Practice,Medium
+H0108,Dr. Reeves,T008,Pulmonologist,C,2,25,Community,High
+H0109,Dr. Young,T035,Immunologist,B,16,4,Community,Medium
+H0110,Dr. Rogers,T031,Pulmonologist,B,39,12,Academic,Medium
+H0111,Dr. Orozco,T002,Immunologist,B,38,5,Community,Medium
+H0112,Dr. Miller,T011,Cardiologist,C,15,27,Group Practice,Medium
+H0113,Dr. Hernandez,T012,Cardiologist,A,42,28,Academic,Low
+H0114,Dr. Reyes,T032,Cardiologist,B,22,28,Academic,Low
+H0115,Dr. Hernandez,T002,Neurologist,C,13,7,Community,Low
+H0116,Dr. Lewis,T005,General Practitioner,B,15,16,Private Practice,Medium
+H0117,Dr. Perry,T040,Immunologist,C,11,31,Private Practice,High
+H0118,Dr. Rivera,T009,General Practitioner,B,34,24,Community,High
+H0119,Dr. Owens,T031,Neurologist,C,4,7,Private Practice,Medium
+H0120,Dr. Brown,T012,Neurologist,A,45,5,Private Practice,High
+H0121,Dr. Wall,T005,Endocrinologist,C,8,19,Group Practice,High
+H0122,Dr. Price,T012,Pulmonologist,B,34,10,Private Practice,Low
+H0123,Dr. Carrillo,T035,Pulmonologist,B,37,30,Community,Low
+H0124,Dr. Shah,T043,Oncologist,A,89,14,Community,Medium
+H0125,Dr. Smith,T042,Internist,A,82,18,Academic,High
+H0126,Dr. Gilmore,T020,Neurologist,B,33,33,Community,Medium
+H0127,Dr. Johnston,T032,Immunologist,B,19,23,Group Practice,High
+H0128,Dr. Woods,T010,Endocrinologist,C,4,5,Community,Low
+H0129,Dr. Bender,T015,Endocrinologist,B,25,6,Community,Medium
+H0130,Dr. Evans,T046,Internist,B,38,14,Private Practice,Medium
+H0131,Dr. Price,T001,General Practitioner,C,13,23,Private Practice,Medium
+H0132,Dr. Snow,T005,Internist,C,11,24,Academic,High
+H0133,Dr. Houston,T010,Internist,A,47,4,Community,Medium
+H0134,Dr. Medina,T002,Internist,A,63,33,Community,Low
+H0135,Dr. Navarro,T009,Pulmonologist,A,80,22,Private Practice,Medium
+H0136,Dr. Marsh,T028,Neurologist,C,5,22,Academic,High
+H0137,Dr. Hurst,T021,Oncologist,C,6,12,Community,Medium
+H0138,Dr. Freeman,T046,Neurologist,B,35,5,Private Practice,Medium
+H0139,Dr. Nelson,T041,General Practitioner,C,9,2,Community,Low
+H0140,Dr. Tucker,T017,Cardiologist,C,8,29,Private Practice,Medium
+H0141,Dr. Price,T013,Internist,C,10,25,Community,Medium
+H0142,Dr. Caldwell,T019,Neurologist,C,16,14,Community,Medium
+H0143,Dr. Yates,T028,General Practitioner,B,29,12,Group Practice,Medium
+H0144,Dr. Ramsey,T014,Cardiologist,A,87,18,Private Practice,Medium
+H0145,Dr. Pittman,T030,Cardiologist,B,28,19,Academic,Medium
+H0146,Dr. Calhoun,T020,Internist,A,81,23,Private Practice,Medium
+H0147,Dr. Hooper,T027,Oncologist,B,42,25,Private Practice,Low
+H0148,Dr. Ferguson,T021,Immunologist,C,5,20,Private Practice,Medium
+H0149,Dr. Meadows,T015,Pulmonologist,A,109,22,Academic,Low
+H0150,Dr. Vargas,T048,Neurologist,A,51,9,Group Practice,Medium
+H0151,Dr. Alvarado,T038,Cardiologist,B,16,29,Community,Low
+H0152,Dr. Miller,T007,Neurologist,C,8,6,Academic,Low
+H0153,Dr. Patterson,T044,Immunologist,B,30,18,Academic,Medium
+H0154,Dr. Camacho,T023,Pulmonologist,B,17,20,Academic,Low
+H0155,Dr. White,T046,Immunologist,A,42,28,Private Practice,High
+H0156,Dr. Green,T040,Pulmonologist,A,66,12,Academic,Low
+H0157,Dr. Murphy,T021,Endocrinologist,C,3,13,Academic,Medium
+H0158,Dr. Gibson,T002,Pulmonologist,C,12,22,Group Practice,High
+H0159,Dr. Rogers,T014,Internist,A,79,12,Community,Medium
+H0160,Dr. Hobbs,T026,Oncologist,C,7,29,Academic,Low
+H0161,Dr. Ramirez,T030,Immunologist,C,2,6,Academic,High
+H0162,Dr. Bean,T013,Cardiologist,C,13,18,Academic,Medium
+H0163,Dr. Fisher,T007,Internist,B,15,21,Community,Low
+H0164,Dr. Conley,T042,Endocrinologist,B,37,13,Private Practice,Low
+H0165,Dr. Ruiz,T050,Oncologist,B,22,7,Academic,Medium
+H0166,Dr. Curry,T025,Neurologist,C,6,18,Academic,High
+H0167,Dr. Williams,T009,Internist,A,71,20,Private Practice,High
+H0168,Dr. Crane,T014,Immunologist,A,87,27,Private Practice,Medium
+H0169,Dr. Walker,T002,General Practitioner,B,25,33,Community,Medium
+H0170,Dr. Jones,T047,General Practitioner,C,6,7,Private Practice,Low
+H0171,Dr. Bernard,T006,Cardiologist,B,18,12,Community,High
+H0172,Dr. Williams,T028,Pulmonologist,C,15,34,Community,Medium
+H0173,Dr. Johnson,T014,Cardiologist,C,7,25,Private Practice,High
+H0174,Dr. Wright,T027,General Practitioner,A,58,24,Community,High
+H0175,Dr. Combs,T031,Neurologist,C,17,16,Group Practice,Medium
+H0176,Dr. Howell,T042,Endocrinologist,B,23,28,Academic,Medium
+H0177,Dr. Allen,T010,Endocrinologist,C,13,12,Private Practice,Medium
+H0178,Dr. Wells,T001,Immunologist,A,50,18,Academic,Low
+H0179,Dr. Wilson,T007,Endocrinologist,C,15,15,Private Practice,Medium
+H0180,Dr. Gould,T046,Immunologist,C,8,28,Private Practice,Low
+H0181,Dr. Marshall,T045,Internist,C,17,19,Private Practice,Low
+H0182,Dr. Scott,T029,Immunologist,C,2,29,Academic,Medium
+H0183,Dr. Wood,T029,Internist,B,27,5,Private Practice,Low
+H0184,Dr. Obrien,T031,Immunologist,C,8,8,Private Practice,Medium
+H0185,Dr. Stuart,T009,General Practitioner,C,6,10,Private Practice,High
+H0186,Dr. Higgins,T047,General Practitioner,C,6,9,Private Practice,Low
+H0187,Dr. Strickland,T021,Pulmonologist,A,69,18,Private Practice,High
+H0188,Dr. Martin,T019,Internist,C,14,18,Community,Medium
+H0189,Dr. Collins,T025,Oncologist,C,3,34,Community,Low
+H0190,Dr. Lane,T003,Internist,C,5,33,Community,High
+H0191,Dr. Hickman,T008,Immunologist,B,42,9,Academic,High
+H0192,Dr. Johnston,T036,Immunologist,C,7,20,Group Practice,Low
+H0193,Dr. Odonnell,T004,Oncologist,B,40,4,Private Practice,Medium
+H0194,Dr. Brooks,T029,Cardiologist,C,16,6,Group Practice,High
+H0195,Dr. David,T013,Immunologist,A,98,14,Community,Medium
+H0196,Dr. Gonzalez,T019,Pulmonologist,C,8,32,Group Practice,Medium
+H0197,Dr. Vargas,T015,Endocrinologist,C,17,17,Private Practice,Medium
+H0198,Dr. Rivas,T018,Endocrinologist,A,66,33,Private Practice,Low
+H0199,Dr. Sanchez,T035,Neurologist,C,6,23,Private Practice,Medium
+H0200,Dr. Terry,T015,Neurologist,B,39,30,Community,Medium
+H0201,Dr. Turner,T027,Endocrinologist,C,4,23,Private Practice,Low
+H0202,Dr. Sutton,T023,Endocrinologist,C,2,4,Private Practice,Low
+H0203,Dr. Trujillo,T031,General Practitioner,C,5,11,Academic,High
+H0204,Dr. Hogan,T048,Pulmonologist,C,10,22,Community,High
+H0205,Dr. Knight,T036,Oncologist,C,5,17,Group Practice,High
+H0206,Dr. Williams,T011,Neurologist,B,16,13,Group Practice,Medium
+H0207,Dr. Patel,T002,General Practitioner,B,40,3,Group Practice,Medium
+H0208,Dr. Stanley,T013,General Practitioner,C,15,25,Private Practice,Medium
+H0209,Dr. Jones,T029,Oncologist,C,15,31,Community,Low
+H0210,Dr. Holland,T003,General Practitioner,C,6,31,Academic,Low
+H0211,Dr. Smith,T024,Internist,C,4,20,Academic,High
+H0212,Dr. Fisher,T029,Pulmonologist,B,43,9,Academic,Medium
+H0213,Dr. Henry,T016,Endocrinologist,C,13,27,Community,Medium
+H0214,Dr. Hamilton,T038,Immunologist,A,48,8,Academic,Medium
+H0215,Dr. Cox,T005,Oncologist,B,34,31,Community,Medium
+H0216,Dr. Snow,T004,Endocrinologist,A,89,8,Group Practice,Low
+H0217,Dr. Stevens,T035,Endocrinologist,B,20,4,Community,Medium
+H0218,Dr. Hernandez,T024,Cardiologist,B,33,2,Group Practice,Medium
+H0219,Dr. Thompson,T034,Internist,B,42,26,Private Practice,Low
+H0220,Dr. Boyd,T021,Oncologist,C,13,2,Community,Medium
+H0221,Dr. Santos,T013,General Practitioner,B,39,16,Community,High
+H0222,Dr. Gilbert,T041,Immunologist,B,25,14,Academic,Medium
+H0223,Dr. Gillespie,T040,Oncologist,B,16,9,Community,High
+H0224,Dr. Hampton,T034,General Practitioner,B,29,6,Private Practice,Low
+H0225,Dr. Marshall,T014,Endocrinologist,B,26,10,Academic,High
+H0226,Dr. Petersen,T028,Immunologist,A,112,2,Community,Medium
+H0227,Dr. Vargas,T018,General Practitioner,C,6,3,Community,Medium
+H0228,Dr. Morris,T005,Pulmonologist,C,9,24,Group Practice,Low
+H0229,Dr. Sanchez,T047,General Practitioner,C,3,10,Private Practice,High
+H0230,Dr. Michael,T007,Cardiologist,B,36,15,Private Practice,High
+H0231,Dr. Ramirez,T048,Internist,B,17,5,Academic,High
+H0232,Dr. Hayes,T022,Endocrinologist,C,13,31,Private Practice,High
+H0233,Dr. Christensen,T009,General Practitioner,B,42,32,Private Practice,High
+H0234,Dr. Hudson,T026,Internist,B,44,12,Private Practice,Medium
+H0235,Dr. Barnett,T045,Neurologist,A,60,9,Group Practice,High
+H0236,Dr. Rogers,T036,Neurologist,B,42,4,Community,High
+H0237,Dr. Snyder,T040,Internist,B,38,15,Group Practice,Low
+H0238,Dr. Nguyen,T031,Internist,B,40,14,Group Practice,Medium
+H0239,Dr. Freeman,T034,Cardiologist,C,15,33,Academic,Medium
+H0240,Dr. Kelly,T043,Pulmonologist,B,15,20,Community,Medium
+H0241,Dr. Green,T013,Endocrinologist,C,6,17,Group Practice,Low
+H0242,Dr. Ramirez,T023,Oncologist,C,4,3,Academic,High
+H0243,Dr. Carlson,T011,Cardiologist,C,5,18,Private Practice,Low
+H0244,Dr. Beard,T050,Pulmonologist,C,3,17,Group Practice,Low
+H0245,Dr. Peters,T048,Internist,C,10,3,Private Practice,High
+H0246,Dr. Black,T002,Oncologist,A,90,3,Academic,Low
+H0247,Dr. Lee,T034,Internist,A,86,27,Private Practice,High
+H0248,Dr. Allen,T047,Internist,A,97,14,Community,High
+H0249,Dr. Russell,T009,Neurologist,C,12,32,Private Practice,Low
+H0250,Dr. Peters,T027,Neurologist,C,10,4,Academic,Low
+H0251,Dr. Allen,T047,Oncologist,B,37,9,Private Practice,Medium
+H0252,Dr. Alvarez,T002,Cardiologist,C,17,24,Private Practice,High
+H0253,Dr. Joseph,T034,Neurologist,A,61,15,Private Practice,Medium
+H0254,Dr. West,T015,Endocrinologist,C,2,28,Private Practice,Low
+H0255,Dr. Smith,T047,Internist,B,19,30,Private Practice,Medium
+H0256,Dr. Phillips,T049,Immunologist,A,50,2,Private Practice,Medium
+H0257,Dr. Sullivan,T048,General Practitioner,B,44,18,Academic,High
+H0258,Dr. Sanchez,T023,Oncologist,B,29,31,Private Practice,High
+H0259,Dr. Beck,T044,Oncologist,B,41,14,Academic,Low
+H0260,Dr. Wood,T043,Neurologist,B,17,22,Group Practice,Medium
+H0261,Dr. Tran,T016,Cardiologist,C,2,20,Academic,Low
+H0262,Dr. Cooper,T042,Internist,B,34,20,Community,Medium
+H0263,Dr. Barajas,T002,Endocrinologist,B,43,26,Private Practice,Low
+H0264,Dr. Pierce,T029,Cardiologist,C,17,23,Community,High
+H0265,Dr. Bell,T012,Pulmonologist,C,3,32,Academic,Medium
+H0266,Dr. Chavez,T006,Pulmonologist,B,16,18,Private Practice,High
+H0267,Dr. Parker,T004,Immunologist,B,17,24,Private Practice,Medium
+H0268,Dr. Hall,T034,Neurologist,A,79,33,Private Practice,Medium
+H0269,Dr. Griffith,T016,Neurologist,A,67,11,Community,Low
+H0270,Dr. Stewart,T035,Neurologist,C,16,11,Private Practice,Medium
+H0271,Dr. Newton,T003,Immunologist,A,78,9,Community,High
+H0272,Dr. Tapia,T016,Pulmonologist,B,20,21,Private Practice,High
+H0273,Dr. Vaughn,T026,Cardiologist,C,10,33,Private Practice,High
+H0274,Dr. Lee,T039,Immunologist,A,59,15,Private Practice,Medium
+H0275,Dr. Rodgers,T016,Immunologist,C,13,29,Community,Low
+H0276,Dr. Hill,T030,Cardiologist,B,15,25,Academic,Low
+H0277,Dr. Lawrence,T045,Neurologist,C,9,16,Academic,High
+H0278,Dr. Wolf,T029,Endocrinologist,B,37,23,Academic,Medium
+H0279,Dr. Carlson,T012,Cardiologist,C,8,31,Community,Medium
+H0280,Dr. Hooper,T002,Pulmonologist,C,17,5,Private Practice,Medium
+H0281,Dr. Wall,T044,Oncologist,A,102,14,Community,Medium
+H0282,Dr. Phillips,T002,Internist,C,4,24,Group Practice,Medium
+H0283,Dr. Ward,T045,Oncologist,C,5,9,Academic,Medium
+H0284,Dr. Turner,T025,General Practitioner,C,11,19,Private Practice,High
+H0285,Dr. Erickson,T048,General Practitioner,C,10,13,Private Practice,Low
+H0286,Dr. Martinez,T040,Immunologist,C,16,32,Community,High
+H0287,Dr. Williams,T050,Internist,B,20,15,Academic,Medium
+H0288,Dr. Brown,T017,Oncologist,B,29,19,Private Practice,Medium
+H0289,Dr. Carter,T038,Endocrinologist,C,16,12,Community,Medium
+H0290,Dr. Raymond,T020,Neurologist,B,35,13,Group Practice,Low
+H0291,Dr. Little,T023,Pulmonologist,C,4,16,Private Practice,Low
+H0292,Dr. Mullins,T030,General Practitioner,C,10,32,Group Practice,Low
+H0293,Dr. Garcia,T045,Endocrinologist,B,35,30,Community,Medium
+H0294,Dr. Smith,T050,Pulmonologist,B,35,27,Private Practice,Low
+H0295,Dr. Mitchell,T038,Pulmonologist,C,15,19,Private Practice,Medium
+H0296,Dr. Mendoza,T021,Neurologist,B,34,33,Private Practice,Low
+H0297,Dr. Peterson,T021,Internist,C,15,23,Community,Medium
+H0298,Dr. Sheppard,T036,Immunologist,B,18,18,Private Practice,Low
+H0299,Dr. King,T012,Oncologist,C,13,24,Community,Low
+H0300,Dr. Hensley,T006,Neurologist,A,56,25,Private Practice,Low
+H0301,Dr. Wilson,T018,Endocrinologist,C,8,9,Community,High
+H0302,Dr. Jones,T015,Immunologist,B,23,7,Group Practice,High
+H0303,Dr. Vasquez,T015,Endocrinologist,C,4,6,Academic,Low
+H0304,Dr. Ray,T012,Immunologist,A,116,30,Private Practice,High
+H0305,Dr. Parks,T003,Internist,C,16,29,Group Practice,Low
+H0306,Dr. Hernandez,T002,General Practitioner,C,3,12,Private Practice,Medium
+H0307,Dr. Shepherd,T050,Endocrinologist,B,33,2,Private Practice,Medium
+H0308,Dr. Avery,T021,Neurologist,A,45,20,Community,Low
+H0309,Dr. Miller,T019,Immunologist,A,62,10,Group Practice,Medium
+H0310,Dr. Wright,T033,Immunologist,C,12,28,Community,Medium
+H0311,Dr. Grant,T011,Pulmonologist,C,12,5,Private Practice,Medium
+H0312,Dr. Butler,T048,Pulmonologist,B,16,19,Private Practice,Medium
+H0313,Dr. Carlson,T039,Cardiologist,B,38,16,Private Practice,Low
+H0314,Dr. Montgomery,T005,Endocrinologist,B,28,14,Community,High
+H0315,Dr. Rowe,T021,Pulmonologist,C,7,20,Private Practice,Low
+H0316,Dr. James,T045,Cardiologist,B,28,7,Private Practice,Low
+H0317,Dr. Kerr,T048,General Practitioner,C,5,13,Academic,Medium
+H0318,Dr. Evans,T023,General Practitioner,A,111,18,Group Practice,Low
+H0319,Dr. Chapman,T029,Pulmonologist,C,15,24,Academic,Medium
+H0320,Dr. Patterson,T008,Endocrinologist,B,17,27,Community,Medium
+H0321,Dr. Carroll,T050,Immunologist,B,33,30,Academic,Low
+H0322,Dr. Brown,T012,Oncologist,C,15,34,Academic,High
+H0323,Dr. Choi,T048,Internist,C,16,28,Group Practice,High
+H0324,Dr. Garcia,T031,Endocrinologist,C,15,26,Community,Medium
+H0325,Dr. Farmer,T029,Internist,A,64,11,Community,Medium
+H0326,Dr. Garrett,T024,Neurologist,A,79,24,Community,Medium
+H0327,Dr. Baker,T012,General Practitioner,C,9,22,Private Practice,Low
+H0328,Dr. Miller,T009,Pulmonologist,C,15,22,Private Practice,Medium
+H0329,Dr. Allen,T011,Pulmonologist,B,40,14,Community,Medium
+H0330,Dr. Arnold,T009,Internist,A,61,34,Community,High
+H0331,Dr. Moore,T038,Immunologist,A,87,25,Group Practice,Medium
+H0332,Dr. Ortiz,T017,Internist,C,10,12,Community,High
+H0333,Dr. Norris,T003,Neurologist,A,90,18,Community,High
+H0334,Dr. Harrison,T049,Immunologist,B,17,5,Community,Medium
+H0335,Dr. Johnson,T045,Neurologist,B,24,26,Private Practice,High
+H0336,Dr. Roberts,T047,Oncologist,B,33,31,Community,High
+H0337,Dr. Campbell,T050,General Practitioner,A,112,10,Private Practice,High
+H0338,Dr. Heath,T009,Pulmonologist,B,42,22,Community,Low
+H0339,Dr. Jones,T019,Pulmonologist,A,84,21,Group Practice,Low
+H0340,Dr. Hall,T038,Oncologist,C,8,20,Community,Medium
+H0341,Dr. Baker,T034,Cardiologist,B,28,20,Private Practice,Low
+H0342,Dr. Moody,T008,General Practitioner,B,23,13,Community,Low
+H0343,Dr. Lawrence,T040,Immunologist,C,12,18,Community,Medium
+H0344,Dr. Lara,T011,Oncologist,C,13,29,Private Practice,High
+H0345,Dr. Gonzalez,T011,Immunologist,B,37,19,Community,Low
+H0346,Dr. Wilson,T026,Internist,B,39,15,Group Practice,Low
+H0347,Dr. Walker,T028,Endocrinologist,B,42,8,Group Practice,Medium
+H0348,Dr. Hernandez,T028,Pulmonologist,C,4,14,Group Practice,Low
+H0349,Dr. Baker,T005,Immunologist,C,16,19,Academic,Medium
+H0350,Dr. Thomas,T045,Neurologist,C,5,14,Private Practice,Low
+H0351,Dr. Brown,T013,Immunologist,C,15,32,Community,Low
+H0352,Dr. Sparks,T007,Endocrinologist,C,9,3,Group Practice,Medium
+H0353,Dr. Larson,T046,General Practitioner,B,20,17,Private Practice,Low
+H0354,Dr. Holloway,T049,Pulmonologist,A,92,10,Private Practice,Medium
+H0355,Dr. Morse,T044,Internist,C,14,10,Community,Medium
+H0356,Dr. Gonzales,T040,Oncologist,C,5,12,Private Practice,Low
+H0357,Dr. Harrison,T031,Internist,A,79,23,Academic,High
+H0358,Dr. Torres,T027,Endocrinologist,C,2,34,Private Practice,Medium
+H0359,Dr. Powell,T005,Pulmonologist,B,44,24,Community,High
+H0360,Dr. Nelson,T020,Immunologist,B,23,10,Private Practice,Medium
+H0361,Dr. Fernandez,T018,General Practitioner,A,103,25,Private Practice,Medium
+H0362,Dr. Kim,T013,Cardiologist,B,15,9,Private Practice,Low
+H0363,Dr. George,T035,General Practitioner,C,9,8,Community,High
+H0364,Dr. Preston,T024,Cardiologist,B,34,19,Private Practice,Medium
+H0365,Dr. Navarro,T004,Neurologist,C,10,4,Community,High
+H0366,Dr. Munoz,T011,General Practitioner,C,15,29,Community,Low
+H0367,Dr. Johnson,T033,Pulmonologist,C,12,7,Academic,Low
+H0368,Dr. Perez,T004,Cardiologist,B,35,22,Community,Low
+H0369,Dr. Craig,T043,Oncologist,B,17,29,Community,Low
+H0370,Dr. Valencia,T024,Pulmonologist,A,98,2,Private Practice,Low
+H0371,Dr. Matthews,T023,Oncologist,C,15,22,Academic,High
+H0372,Dr. Smith,T028,General Practitioner,C,15,14,Community,Medium
+H0373,Dr. Hubbard,T041,Oncologist,B,23,11,Group Practice,Medium
+H0374,Dr. Underwood,T017,Cardiologist,C,5,11,Academic,Low
+H0375,Dr. Johnston,T033,Pulmonologist,B,41,14,Private Practice,Low
+H0376,Dr. Hines,T027,Immunologist,C,5,25,Private Practice,High
+H0377,Dr. Thompson,T013,Endocrinologist,A,47,3,Group Practice,Low
+H0378,Dr. Stone,T045,Cardiologist,C,3,23,Private Practice,Medium
+H0379,Dr. Ramos,T039,Cardiologist,A,80,18,Private Practice,Medium
+H0380,Dr. Ramirez,T031,Immunologist,C,9,15,Private Practice,High
+H0381,Dr. Shea,T043,Pulmonologist,C,16,11,Community,High
+H0382,Dr. Graham,T044,Pulmonologist,C,16,26,Private Practice,Medium
+H0383,Dr. Olsen,T035,Internist,A,94,4,Academic,Medium
+H0384,Dr. Costa,T042,General Practitioner,B,30,18,Group Practice,High
+H0385,Dr. Harrison,T034,Oncologist,B,43,13,Community,Medium
+H0386,Dr. Ortiz,T033,General Practitioner,B,44,25,Private Practice,Low
+H0387,Dr. Morris,T030,Immunologist,A,87,30,Community,Low
+H0388,Dr. Garcia,T038,General Practitioner,C,15,26,Private Practice,Low
+H0389,Dr. Martin,T008,Immunologist,C,13,27,Academic,Medium
+H0390,Dr. Jenkins,T045,Pulmonologist,B,17,2,Group Practice,Medium
+H0391,Dr. Simpson,T045,Oncologist,B,25,21,Private Practice,Low
+H0392,Dr. Bates,T002,General Practitioner,B,28,29,Community,Medium
+H0393,Dr. Morales,T041,Cardiologist,C,3,17,Private Practice,High
+H0394,Dr. Hodges,T007,Neurologist,B,35,18,Private Practice,High
+H0395,Dr. Johnson,T016,Internist,C,16,29,Private Practice,Medium
+H0396,Dr. Miller,T037,Endocrinologist,B,35,13,Community,High
+H0397,Dr. King,T008,Cardiologist,C,6,28,Community,Medium
+H0398,Dr. Wilson,T041,Pulmonologist,C,17,31,Community,High
+H0399,Dr. Barton,T042,Endocrinologist,B,34,7,Community,High
+H0400,Dr. Hancock,T024,Neurologist,C,6,8,Group Practice,Medium
+H0401,Dr. Bryan,T001,Neurologist,A,106,33,Academic,Medium
+H0402,Dr. Smith,T014,Oncologist,C,13,33,Private Practice,Medium
+H0403,Dr. Booth,T030,Endocrinologist,B,15,26,Community,High
+H0404,Dr. Murray,T050,Oncologist,C,6,34,Private Practice,High
+H0405,Dr. Brown,T030,Cardiologist,C,14,8,Private Practice,Medium
+H0406,Dr. Stone,T013,Immunologist,C,10,13,Group Practice,Medium
+H0407,Dr. Dean,T030,Immunologist,C,14,17,Community,Medium
+H0408,Dr. Jimenez,T026,Immunologist,B,23,17,Community,Medium
+H0409,Dr. Ramos,T038,Endocrinologist,A,107,14,Community,Low
+H0410,Dr. Williams,T005,Immunologist,B,17,8,Academic,Medium
+H0411,Dr. Adams,T038,Cardiologist,A,104,10,Community,Medium
+H0412,Dr. Anderson,T026,Oncologist,C,9,33,Community,Medium
+H0413,Dr. Roberts,T049,Endocrinologist,B,27,12,Community,Medium
+H0414,Dr. Gilmore,T017,Oncologist,C,8,9,Private Practice,Medium
+H0415,Dr. Washington,T030,Endocrinologist,C,16,34,Community,Medium
+H0416,Dr. Johnson,T047,Oncologist,C,9,24,Community,Low
+H0417,Dr. Mccoy,T005,Neurologist,A,115,26,Community,High
+H0418,Dr. Lloyd,T048,Oncologist,C,7,9,Private Practice,High
+H0419,Dr. Mckinney,T034,Immunologist,C,13,23,Group Practice,Medium
+H0420,Dr. Collins,T003,Neurologist,B,28,5,Private Practice,Low
+H0421,Dr. Smith,T015,Oncologist,C,16,4,Private Practice,High
+H0422,Dr. Russell,T035,Endocrinologist,C,16,30,Community,Low
+H0423,Dr. Walker,T003,Endocrinologist,A,58,30,Private Practice,Medium
+H0424,Dr. Skinner,T028,Internist,B,40,29,Community,Low
+H0425,Dr. Wilson,T017,Endocrinologist,B,34,14,Community,Low
+H0426,Dr. Valentine,T030,Pulmonologist,A,61,16,Private Practice,Medium
+H0427,Dr. Holland,T003,Cardiologist,B,22,24,Group Practice,High
+H0428,Dr. Moore,T045,Endocrinologist,A,60,27,Academic,High
+H0429,Dr. Cantu,T049,Neurologist,A,90,5,Private Practice,High
+H0430,Dr. Carter,T049,Internist,A,77,27,Private Practice,Low
+H0431,Dr. Thornton,T037,Endocrinologist,C,5,10,Academic,High
+H0432,Dr. Perry,T007,Pulmonologist,B,39,6,Community,Medium
+H0433,Dr. Olson,T038,Immunologist,C,14,33,Community,Medium
+H0434,Dr. Kennedy,T002,Neurologist,B,33,21,Academic,Low
+H0435,Dr. Bryant,T002,Pulmonologist,B,18,12,Community,High
+H0436,Dr. Thomas,T016,Immunologist,B,37,16,Community,High
+H0437,Dr. Lee,T023,General Practitioner,B,21,33,Community,High
+H0438,Dr. Greene,T038,General Practitioner,A,67,29,Private Practice,Low
+H0439,Dr. Francis,T033,Neurologist,C,5,23,Private Practice,Medium
+H0440,Dr. Taylor,T022,Oncologist,B,36,18,Group Practice,High
+H0441,Dr. Jones,T014,Cardiologist,C,13,27,Community,High
+H0442,Dr. Barton,T050,Internist,C,14,8,Private Practice,High
+H0443,Dr. Dickerson,T021,Cardiologist,A,106,27,Group Practice,High
+H0444,Dr. Morgan,T022,Pulmonologist,A,105,26,Private Practice,Low
+H0445,Dr. French,T008,Immunologist,C,9,11,Community,Low
+H0446,Dr. Adams,T039,Cardiologist,B,16,20,Private Practice,Medium
+H0447,Dr. Smith,T034,Immunologist,A,94,12,Community,Low
+H0448,Dr. Barber,T011,Immunologist,C,10,14,Community,High
+H0449,Dr. Monroe,T004,Pulmonologist,A,40,9,Private Practice,Low
+H0450,Dr. Carpenter,T033,Pulmonologist,C,9,5,Private Practice,Low
+H0451,Dr. Keller,T031,Pulmonologist,C,8,32,Academic,Medium
+H0452,Dr. Grimes,T014,Cardiologist,B,20,29,Group Practice,Low
+H0453,Dr. Griffin,T048,General Practitioner,A,45,12,Private Practice,High
+H0454,Dr. Washington,T008,Pulmonologist,A,64,2,Community,High
+H0455,Dr. Cook,T021,Internist,B,32,25,Group Practice,High
+H0456,Dr. Hines,T048,Cardiologist,A,56,32,Community,Medium
+H0457,Dr. Bennett,T021,Pulmonologist,C,14,27,Group Practice,Low
+H0458,Dr. Cantu,T030,Endocrinologist,A,51,6,Private Practice,Low
+H0459,Dr. Kane,T020,Immunologist,B,20,21,Academic,Medium
+H0460,Dr. Pollard,T014,Internist,C,11,12,Private Practice,Low
+H0461,Dr. Allen,T050,Pulmonologist,C,12,34,Private Practice,Low
+H0462,Dr. Reyes,T020,Neurologist,C,9,28,Private Practice,High
+H0463,Dr. Chase,T046,Immunologist,B,33,16,Group Practice,Medium
+H0464,Dr. Jenkins,T012,Immunologist,C,13,33,Private Practice,High
+H0465,Dr. Flores,T011,Pulmonologist,B,24,22,Private Practice,Medium
+H0466,Dr. Kennedy,T002,General Practitioner,B,15,6,Group Practice,Low
+H0467,Dr. Mcintyre,T031,Oncologist,A,96,7,Private Practice,High
+H0468,Dr. James,T018,General Practitioner,C,14,23,Community,Low
+H0469,Dr. Mcneil,T044,Pulmonologist,B,27,19,Group Practice,Medium
+H0470,Dr. Sparks,T023,Immunologist,A,79,15,Community,Medium
+H0471,Dr. Pearson,T049,Internist,B,28,11,Private Practice,Medium
+H0472,Dr. Hernandez,T009,Neurologist,B,17,14,Group Practice,Medium
+H0473,Dr. Hanna,T044,Internist,C,17,32,Private Practice,High
+H0474,Dr. Martinez,T038,Internist,C,14,31,Private Practice,High
+H0475,Dr. Sanford,T038,Immunologist,C,5,4,Private Practice,High
+H0476,Dr. Rivera,T043,General Practitioner,A,95,31,Community,Medium
+H0477,Dr. Garcia,T038,Neurologist,B,31,7,Group Practice,High
+H0478,Dr. Kirk,T030,Cardiologist,B,27,30,Community,Low
+H0479,Dr. Garcia,T007,Endocrinologist,A,100,9,Academic,Medium
+H0480,Dr. Lozano,T002,Immunologist,B,20,34,Community,Medium
+H0481,Dr. Smith,T047,Pulmonologist,C,2,18,Private Practice,Medium
+H0482,Dr. Thomas,T030,Cardiologist,A,85,12,Private Practice,Medium
+H0483,Dr. Pitts,T039,Endocrinologist,B,31,14,Private Practice,Low
+H0484,Dr. Booker,T023,Pulmonologist,B,44,12,Community,High
+H0485,Dr. Jones,T006,Internist,A,47,32,Community,High
+H0486,Dr. Harrington,T006,Oncologist,B,25,29,Academic,Low
+H0487,Dr. Baker,T033,Pulmonologist,C,5,7,Community,High
+H0488,Dr. Hanson,T021,Neurologist,C,13,17,Private Practice,High
+H0489,Dr. Sanders,T010,Neurologist,C,2,5,Academic,Medium
+H0490,Dr. Miller,T023,Oncologist,B,40,27,Community,High
+H0491,Dr. Murphy,T003,Cardiologist,A,78,13,Community,Medium
+H0492,Dr. Craig,T028,Endocrinologist,B,35,12,Academic,High
+H0493,Dr. Ferguson,T014,Pulmonologist,B,35,26,Community,Low
+H0494,Dr. Finley,T039,Neurologist,C,2,19,Academic,Low
+H0495,Dr. Sims,T015,Cardiologist,A,103,20,Private Practice,Medium
+H0496,Dr. Clay,T022,Oncologist,B,44,24,Private Practice,Medium
+H0497,Dr. Freeman,T001,General Practitioner,A,93,19,Private Practice,Low
+H0498,Dr. Weaver,T004,Immunologist,B,44,27,Group Practice,High
+H0499,Dr. Williamson,T019,General Practitioner,C,10,7,Community,Low
+H0500,Dr. Young,T023,General Practitioner,B,23,5,Private Practice,Low

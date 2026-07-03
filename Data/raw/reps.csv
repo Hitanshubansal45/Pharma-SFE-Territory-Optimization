@@ -1,0 +1,81 @@
+rep_id,rep_name,territory_id,region,experience_years,hire_date,education,productivity_score
+R001,James Howard,T010,West,3,2023-05-27,B.Sc Life Sciences,1.0
+R002,Dennis Williams,T026,West,6,2012-12-20,B.Pharm,0.24
+R003,Calvin Nielsen,T019,Southeast,5,2023-08-07,MBA,0.63
+R004,Edward Fuller,T039,Southwest,15,2021-02-03,MBA,0.39
+R005,Heidi Lee,T003,Midwest,2,2011-02-12,MBA,0.78
+R006,Matthew Mejia,T045,West,10,2013-04-06,B.Pharm,0.72
+R007,Dr. Sharon James,T013,Northwest,13,2012-01-20,B.Pharm,0.46
+R008,Roy Martin,T050,Southwest,5,2014-04-20,B.Sc Life Sciences,0.55
+R009,Michael Miles,T028,Northeast,1,2020-02-28,B.Pharm,0.44
+R010,Andrea Reid,T020,Southwest,1,2022-12-21,B.Sc Life Sciences,0.64
+R011,Danielle Ford,T028,Northeast,15,2017-01-24,B.Pharm,0.84
+R012,Timothy Watts,T008,Midwest,17,2012-09-28,MBA,0.45
+R013,Frederick Tate,T041,Northeast,11,2023-11-29,MBA,0.75
+R014,Rodney Trujillo,T039,Southwest,17,2009-05-03,B.Pharm,0.54
+R015,Austin Gentry,T001,Southwest,13,2019-04-04,MBA,0.49
+R016,Michelle Lewis,T003,Midwest,1,2022-07-28,B.Pharm,0.63
+R017,Dr. Marvin Thomas Jr.,T013,Northwest,2,2009-03-22,B.Pharm,0.44
+R018,Kimberly Burgess,T028,Northeast,9,2014-02-22,M.Sc Pharmacology,0.54
+R019,Kevin Cox,T049,Northeast,3,2010-09-12,MBA,0.41
+R020,Brenda Snyder PhD,T025,Northwest,1,2025-02-16,B.Sc Life Sciences,1.0
+R021,Brittany Moore,T033,Southwest,16,2011-03-22,B.Pharm,0.66
+R022,Linda Cruz,T038,Midwest,6,2015-12-26,B.Sc Life Sciences,0.51
+R023,Julie King,T006,Southeast,17,2020-06-20,B.Sc Life Sciences,0.69
+R024,Terri Frazier,T044,Midwest,5,2018-01-03,B.Sc Life Sciences,0.63
+R025,Stephen Potter,T045,West,5,2010-05-17,MBA,0.61
+R026,Gina Carter,T032,Southeast,6,2024-07-15,MBA,0.77
+R027,Aaron Bowen,T045,West,3,2020-03-21,MBA,0.8
+R028,Valerie Gill,T047,Southeast,5,2011-01-03,M.Sc Pharmacology,0.54
+R029,Ashley Garrett,T021,West,5,2009-01-31,B.Sc Life Sciences,0.53
+R030,Katie Gonzalez,T016,Southwest,10,2014-10-01,M.Sc Pharmacology,0.59
+R031,Christopher Ashley,T021,West,10,2017-11-12,B.Pharm,0.2
+R032,Tamara George,T011,Southwest,17,2015-10-12,B.Sc Life Sciences,0.35
+R033,Brian Cox DVM,T037,Northwest,14,2009-03-08,M.Sc Pharmacology,0.92
+R034,Cynthia Allen,T036,Northwest,9,2014-09-03,B.Pharm,0.98
+R035,Angela Dennis,T035,Northwest,14,2024-05-02,B.Pharm,0.6
+R036,Vanessa Patel,T019,Southeast,1,2024-12-31,B.Sc Life Sciences,0.77
+R037,Matthew Arroyo,T020,Southwest,13,2009-02-24,B.Sc Life Sciences,0.71
+R038,Joseph Obrien,T018,Northwest,13,2014-07-22,B.Sc Life Sciences,1.0
+R039,Tanya Campos,T047,Southeast,4,2020-01-25,B.Pharm,0.87
+R040,Michelle Ross,T041,Northeast,1,2019-10-23,B.Sc Life Sciences,0.62
+R041,Jacqueline Lam,T049,Northeast,17,2014-06-26,B.Pharm,0.46
+R042,David Brown,T014,West,8,2017-12-28,B.Pharm,0.33
+R043,Julian Chapman,T015,Southeast,2,2023-05-06,B.Pharm,0.69
+R044,Michael Brown,T031,Midwest,8,2025-01-10,B.Sc Life Sciences,0.5
+R045,Andre Rivera,T001,Southwest,7,2021-03-19,B.Sc Life Sciences,0.37
+R046,Diana Washington,T003,Midwest,2,2024-03-18,MBA,0.52
+R047,Miranda Khan,T016,Southwest,3,2012-06-30,MBA,0.43
+R048,Dana Kennedy,T023,Southwest,12,2011-03-27,M.Sc Pharmacology,0.99
+R049,Brandon Hopkins,T011,Southwest,1,2022-01-26,MBA,0.83
+R050,Jason Shields,T012,Midwest,12,2011-06-26,B.Sc Life Sciences,0.65
+R051,Matthew Lucas,T010,West,5,2015-06-25,MBA,0.95
+R052,Nicholas Mcbride,T032,Southeast,17,2011-07-10,MBA,0.67
+R053,Corey Herrera,T016,Southwest,16,2024-03-10,MBA,0.48
+R054,Clifford Ford,T008,Midwest,15,2021-10-09,MBA,0.95
+R055,Angela Morton,T038,Midwest,15,2015-06-22,B.Sc Life Sciences,0.76
+R056,Annette Pearson,T012,Midwest,5,2019-11-11,MBA,0.44
+R057,Alexis Davis,T024,Southeast,14,2020-12-19,B.Pharm,0.61
+R058,Cynthia Russell,T028,Northeast,2,2012-09-09,M.Sc Pharmacology,0.47
+R059,Dr. Steven Martin,T008,Midwest,11,2011-03-07,MBA,0.37
+R060,James House,T028,Northeast,7,2020-05-24,MBA,0.84
+R061,Dominique Horton,T036,Northwest,6,2014-12-23,M.Sc Pharmacology,1.0
+R062,Rachel Stanley,T026,West,2,2009-02-17,B.Sc Life Sciences,0.37
+R063,Mr. Daniel Brown,T008,Midwest,6,2016-06-22,B.Pharm,0.76
+R064,Amy Edwards,T050,Southwest,2,2011-11-13,M.Sc Pharmacology,0.52
+R065,John Calhoun,T028,Northeast,15,2024-02-01,B.Sc Life Sciences,0.55
+R066,Amy Romero,T028,Northeast,2,2014-06-02,MBA,0.53
+R067,Andrea Jones,T037,Northwest,6,2022-06-03,B.Pharm,0.48
+R068,Jennifer David,T041,Northeast,1,2023-04-15,B.Sc Life Sciences,0.66
+R069,Lauren Williams,T036,Northwest,15,2012-04-06,B.Sc Life Sciences,0.48
+R070,Matthew Cunningham,T027,Southwest,10,2019-09-11,MBA,0.7
+R071,Dean Santiago,T017,Northwest,17,2015-04-01,M.Sc Pharmacology,0.64
+R072,Derek Anderson,T009,Midwest,5,2013-03-17,B.Sc Life Sciences,0.6
+R073,Joyce Hickman,T033,Southwest,4,2009-08-27,B.Pharm,0.47
+R074,Alexandra Howell,T020,Southwest,10,2021-08-14,MBA,0.53
+R075,Ariel Medina,T013,Northwest,17,2014-06-11,B.Pharm,0.8
+R076,Brandi Bailey,T028,Northeast,10,2017-02-17,B.Sc Life Sciences,0.75
+R077,David Mitchell,T048,Southwest,17,2020-01-10,B.Pharm,0.45
+R078,Joshua Turner,T029,Northeast,5,2022-10-25,B.Sc Life Sciences,0.67
+R079,Dr. Kendra Contreras,T013,Northwest,2,2014-02-07,B.Sc Life Sciences,0.8
+R080,Tara Garcia,T046,Northeast,6,2008-12-10,M.Sc Pharmacology,0.32

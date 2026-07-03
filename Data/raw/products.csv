@@ -1,0 +1,7 @@
+product_id,name,therapeutic_area,launch_year,list_price,market_share_pct,market_growth_rate,bcg_quadrant
+P001,Cardivex,Cardiology,2019,420,0.28,0.04,Cash Cow
+P002,NeuroPrime,Neurology,2021,680,0.18,0.22,Star
+P003,OncoClear,Oncology,2020,1250,0.12,0.31,Question Mark
+P004,PulmoShield,Respiratory,2018,310,0.31,0.02,Cash Cow
+P005,DiabeCare,Endocrinology,2022,290,0.08,0.18,Question Mark
+P006,ImmunoBoost,Immunology,2017,890,0.05,0.06,Dog

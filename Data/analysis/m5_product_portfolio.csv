@@ -1,0 +1,7 @@
+product_id,product_name,therapeutic_area,bcg_quadrant,market_share_pct,market_growth_rate,list_price,total_revenue,total_units,rev_2023,rev_2024,peak_reps_selling,peak_territories,revenue_growth_pct,portfolio_share_pct
+P003,OncoClear,Oncology,Question Mark,0.12,0.31,1250,4867731.78,3564.0,2440511.08,2427220.7,46,31,-0.5,34.1
+P006,ImmunoBoost,Immunology,Dog,0.05,0.06,890,3137648.06,3213.0,1606703.5799999998,1530944.48,45,32,-4.7,22.0
+P002,NeuroPrime,Neurology,Star,0.18,0.22,680,2569528.6200000006,3460.0,1288070.25,1281458.37,46,32,-0.5,18.0
+P001,Cardivex,Cardiology,Cash Cow,0.28,0.04,420,1555297.0200000003,3387.0,813978.49,741318.5299999998,46,34,-8.9,10.9
+P004,PulmoShield,Respiratory,Cash Cow,0.31,0.02,310,1164911.2599999998,3450.0,587722.4100000001,577188.85,47,34,-1.8,8.2
+P005,DiabeCare,Endocrinology,Question Mark,0.08,0.18,290,977569.5800000001,3081.0,471006.80000000005,506562.78,47,32,7.5,6.8
