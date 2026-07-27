@@ -1,6 +1,6 @@
 # Pharma Sales Force Effectiveness & Territory Optimization
 
-> **ZS Associates-style consulting analytics project** — Sales force effectiveness (SFE) analysis for a mid-size pharmaceutical company, identifying $5.4M in whitespace revenue opportunity across 50 territories using DuckDB SQL, Python, and dashboard visualizations.
+> **Consulting-style analytics project** — Sales force effectiveness (SFE) analysis for a mid-size pharmaceutical company, identifying $5.37M in whitespace revenue opportunity across 50 territories using DuckDB SQL, Python, and Power BI dashboards.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-SQL-yellow?logo=duckdb)
@@ -45,31 +45,19 @@ Reallocation of 3 reps from 9 oversaturated territories into 9 high-potential wh
 
 ## Dashboard Views
 
-### Dashboard 1 — Executive Summary
-US revenue choropleth map · Top 5 / Bottom 5 territory ranking · 4 KPI cards
+Built in **Power BI** with a two-page, consulting-style layout — light theme, KPI-card-driven, with cross-page region and territory filtering.
 
-![Executive Summary](screenshots/dashboard1_executive_summary.png)
+### Page 1 — Executive Overview
+Four KPI cards (FY2024 revenue, YoY growth, whitespace opportunity, active territories) · revenue-by-region bar chart · top 5 territories table
+
+![Executive Overview](screenshots/dashboard1_executive_summary.png)
 
 ---
 
-### Dashboard 2 — Whitespace Opportunity Analysis
-State-level gap map (amber gradient) · Market potential vs actual revenue quadrant scatter
+### Page 2 — Whitespace & Territory Analysis
+Four KPI cards (whitespace count, total gap, star territories, average realization) · market-potential-vs-revenue quadrant scatter · state-level opportunity-gap choropleth map
 
 ![Whitespace Analysis](screenshots/dashboard2_whitespace_analysis.png)
-
----
-
-### Dashboard 3 — Sales Force Effectiveness
-Rep productivity leaderboard · Call rate vs conversion bubble chart · Tier A HCP action table
-
-![SFE Metrics](screenshots/dashboard3_sfe.png)
-
----
-
-### Dashboard 4 — Product Portfolio & Promotional ROI
-BCG portfolio matrix · Channel ROI comparison · Revenue share stacked bar
-
-![Product Portfolio](screenshots/dashboard4_product_portfolio.png)
 
 ---
 
@@ -87,7 +75,7 @@ Pharma-SFE-Territory-Optimization/
 │   │   ├── sales.csv               # 5,701 monthly sales records · Jan 2023–Dec 2024
 │   │   └── call_logs.csv           # 17,019 rep–HCP interaction records
 │   │
-│   └── analysis/                   # SQL module outputs (Tableau-ready CSVs)
+│   └── analysis/                   # SQL module outputs (BI-ready CSVs)
 │       ├── m1_sales_performance.csv
 │       ├── m2_whitespace_analysis.csv
 │       ├── m3_sfe_metrics.csv
@@ -101,11 +89,9 @@ Pharma-SFE-Territory-Optimization/
 │   ├── generate_pharma_data.py     # Synthetic data generation pipeline
 │   └── pharma_sql_analysis.py      # 6 DuckDB SQL analytical modules
 │
-├── screenshots/                    # Dashboard PNG exports
+├── screenshots/                    # Power BI dashboard exports
 │   ├── dashboard1_executive_summary.png
-│   ├── dashboard2_whitespace_analysis.png
-│   ├── dashboard3_sfe.png
-│   └── dashboard4_product_portfolio.png
+│   └── dashboard2_whitespace_analysis.png
 │
 ├── requirements.txt
 └── README.md
@@ -116,7 +102,7 @@ Pharma-SFE-Territory-Optimization/
 ## Analytical Methodology
 
 ### Data Generation (`src/generate_pharma_data.py`)
-Synthetic pharma dataset built with Python (Faker + NumPy) using a **star schema** — the same structure ZS Associates uses for client data warehouses. Key design decisions:
+Synthetic pharma dataset built with Python (Faker + NumPy) using a **star schema** — the standard structure used for analytical data warehouses. Key design decisions:
 
 - **Whitespace signal embedded**: territories with MPI >70 and rep productivity <0.5 deliberately underperform (realization rate 25–45%) to create a realistic discovery problem
 - **BCG quadrant integrity**: product market share and growth rates assigned to produce 2 Stars, 2 Cash Cows, 1 Question Mark, 1 Dog
@@ -182,7 +168,7 @@ python src/generate_pharma_data.py
 
 # 4. Run SQL analysis
 python src/pharma_sql_analysis.py
-# Output: data/analysis/ (8 CSV files, Tableau-ready)
+# Output: data/analysis/ (8 CSV files, BI-ready)
 ```
 
 ---
@@ -193,15 +179,14 @@ python src/pharma_sql_analysis.py
 |-------|-------|
 | Data generation | Python · Pandas · NumPy · Faker |
 | SQL analytics | DuckDB (in-memory) |
-| Visualization | Matplotlib · GeoPandas |
-| BI & dashboards | Tableau Public |
+| BI & dashboards | Power BI (DAX measures, conditional formatting, choropleth map) |
 | Version control | Git · GitHub |
 
 ---
 
 ## Domain Context
 
-This project mirrors actual ZS Associates SFE practice work:
+This project mirrors core pharma sales force effectiveness (SFE) practice work:
 
 - **Whitespace analysis** — identifying territories where market potential significantly exceeds realized revenue
 - **HCP segmentation** — Tier A/B/C prescriber classification by volume and coverage frequency
