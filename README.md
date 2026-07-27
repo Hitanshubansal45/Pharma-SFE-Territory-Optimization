@@ -50,14 +50,14 @@ Built in **Power BI** with a two-page, consulting-style layout — light theme, 
 ### Page 1 — Executive Overview
 Four KPI cards (FY2024 revenue, YoY growth, whitespace opportunity, active territories) · revenue-by-region bar chart · top 5 territories table
 
-![Executive Overview](screenshots/dashboard1_executive_summary.png)
+![Executive Overview](screenshots/dashboard1 executive_summary.png)
 
 ---
 
 ### Page 2 — Whitespace & Territory Analysis
 Four KPI cards (whitespace count, total gap, star territories, average realization) · market-potential-vs-revenue quadrant scatter · state-level opportunity-gap choropleth map
 
-![Whitespace Analysis](screenshots/dashboard2_whitespace_analysis.png)
+![Whitespace Analysis](screenshots/dashboard2 whitespace_analysis.png)
 
 ---
 
